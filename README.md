@@ -101,3 +101,8 @@ Algorithm: Random Forest Regression
 Framework: Streamlit
 
 Visualization: Plotly
+
+#Run Command
+sales_env\Scripts\activate
+python -m streamlit run app.py
+
